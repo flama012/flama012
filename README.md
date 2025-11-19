@@ -64,7 +64,7 @@ Busco oportunidades que me permitan **aprender, colaborar y construir soluciones
 
 ## 📫 Contacto
 
-- 📧 Email: jloralb1911@g.educaand.es  
+- 📧 Email: erikgrestudio@gmail.com  
 - 💼 LinkedIn: [erik-ruiz-alos](https://linkedin.com/in/erik-ruiz-alos-183607203)  
 - 📸 Instagram: [_erik.rz](https://instagram.com/_erik.rz)
 
