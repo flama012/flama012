@@ -71,7 +71,7 @@ Busco oportunidades que me permitan **aprender, colaborar y construir soluciones
 
 ## 📫 Contacto
 
-- 📧 Email: **erikgrestudio@gmail.com**  
+- 📧 Email: **erikataun@gmail.com**  
 - 💼 LinkedIn: [erik-ruiz-alos](https://linkedin.com/in/erik-ruiz-alos-183607203)  
 - 📸 Instagram: [_erik.rz](https://www.instagram.com/_eriik.rz/)  
 
