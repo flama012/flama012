@@ -20,9 +20,9 @@ Me considero una persona **organizada, proactiva y con visión estructurada**, c
 
 ## 🏢 Experiencia práctica
 
-- **Prisma**: Diseño gráfico personalizado, branding digital, gestión de redes sociales y atención visual orientada al cliente.  
 - **TechScout**: Mantenimiento y reparación de equipos, instalación de sistemas y soporte técnico.  
 - **GreenPhone**: Encargado de tienda, gestión operativa, atención personalizada y resolución de incidencias técnicas.  
+- **Prisma**: Diseño gráfico personalizado, branding digital, gestión de redes sociales y atención visual orientada al cliente.  
 - **Telepizza**: Operador, refuerzo de habilidades comunicativas, trabajo en equipo y compromiso con la experiencia del cliente.  
 
 ---
