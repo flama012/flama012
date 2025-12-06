@@ -57,8 +57,7 @@ Busco oportunidades que me permitan **aprender, colaborar y construir soluciones
 
 - [`moodloop`](https://github.com/flama012/moodloop): Red social emocional para compartir publicaciones según el estado emocional diario.  
 - [`practica-control-versiones`](https://github.com/flama012/practica-control-versiones): Ejercicio técnico sobre control de versiones con Git y GitHub.  
-- [`liga-justicia`](https://github.com/flama012/liga-justicia): Repositorio creativo con enfoque colaborativo.  
-- [`legion-del-mal`](https://github.com/flama012/legion-del-mal): Fork estratégico para prácticas de Git.  
+- [`liga-justicia`](https://github.com/flama012/liga-justicia): Repositorio creativo con enfoque colaborativo.
 
 ---
 
