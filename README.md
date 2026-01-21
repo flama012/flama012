@@ -111,9 +111,9 @@ Busco oportunidades que me permitan **aprender, colaborar y construir soluciones
 ## 📦 Proyectos destacados
 
 - [`mindloop-mvc`](https://github.com/flama012/mindloop-mvc): Proyecto de plataforma de Gestión y Evaluación Educativa desarrollada con MVC.
-- [`moodloop`](https://github.com/flama012/moodloop): Proyecto de red social emocional para compartir publicaciones según el estado emocional diario.  
-- [`chat-asistencia-mvc`](https://github.com/flama012/chat-asistencia-mvc): Sistema sencillo de asistencia con chats en PHP usando arquitectura MVC.  
+- [`moodloop`](https://github.com/flama012/moodloop): Proyecto de red social emocional para compartir publicaciones según el estado emocional diario.
 - [`mini-drive`](https://github.com/flama012/minidrive): Pequeño gestor de archivos con subida, previsualización y organización básica.
+- [`chat-asistencia-mvc`](https://github.com/flama012/chat-asistencia-mvc): Sistema sencillo de asistencia con chats en PHP usando arquitectura MVC.  
 
 ---
 
