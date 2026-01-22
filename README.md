@@ -119,8 +119,8 @@ Busco oportunidades que me permitan **aprender, colaborar y construir soluciones
 
 ## 📊 Estadísticas de GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=flama012&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=flama012&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eriik-rz&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eriik-rz&layout=compact&theme=radical)
 
 ---
 
