@@ -2,7 +2,7 @@
 
 # 👋 ¡Hola! Soy Erik Ruiz Alos
 
-🎓 Técnico en Sistemas Microinformáticos | 💻 Futuro Desarrollador Web  
+💻 Desarrollador Web Junior | 🎓 Técnico en Sistemas Microinformáticos
 🎨 Creativo, resolutivo y orientado al usuario  
 📍 Alcalá la Real (Jaén / Granada) | Estudiante en IES Alfonso XI  
 
